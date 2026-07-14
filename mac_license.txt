@@ -1,0 +1,53 @@
+################################################################################
+#                                                                              #
+#                                                                              #
+#                          Siemens Industry Software Inc.                      #
+#                                 License File                                 #
+#                                                                              #
+# This message is for the sole use of the intended recipient. If you are not   #
+# the intended recipient, please contact sender and delete all copies.         #
+#                                                                              #
+# Customer's use is subject to the terms of their agreement with Siemens. If   #
+# there are questions or concerns, please contact an appropriate Siemens       #
+# representative.                                                              #
+#                                                                              #
+# If you have problems installing or using these codes, please visit Support   #
+# Center at: https://support.sw.siemens.com/product/1586485382                 #
+# for troubleshooting information and details on how to get technical support  #
+# for Licensing.                                                               #
+#                                                                              #
+#                                                                              #
+# Usage Location/Sold-To/Site: internallicensi WebKey Access Code:  -NA-       #
+# Additional Usage Location/Sold-to/Site: -NA-                                 #
+# Customer Name:  -NA-                                                         #
+# Created: 14 Jul 26                                                           #
+#                                                                              #
+################################################################################
+
+SERVER put_server_name_here 0ee56868d11f 29000
+VENDOR saltd saltd PORT=29001
+INCREMENT mentorall_s saltd 2026.08 14-aug-2026 1 VENDOR_STRING=CD4CBDE6 \
+    SUPERSEDE ISSUED=14-jul-2026 SN=LIC-00002533065 START=14-jul-2026 \
+    AUTH={ mgcld=( LK=7F7CACCE7302A206EE04 SIGN2="07C2 CEA6 ED08 8A95 FF11 \
+    7393 9331 387C A1D9 05C6 1FC4 863F 2056 8E0D 8E71 09A1 483F 3AFE 8BE7 \
+    FD16 4784 23BC 72B5 6480 3BBF 958E 2135 3FC6 E5B2 D9FA") saltd=( \
+    SIGN="00E3 B27F D01D 6F18 5BB9 B6D1 9502 895C C205 41D4 FCFA 3B7A 7B4F \
+    2660 E46F 0339 F31D A6B9 3034 2A95 4736 9CD1 7714 FE11 2411 9D4E 0150 \
+    3401 EE35 560A") }
+
+ ############################# License Content #############################
+
+# The "License Content" section summarizes just the products and feature
+# lines in this particular license file, not all products and feature lines
+# that may be at your site. Because Siemens provides rolled authcodes, you
+# may find that the quantities in the "License Content" section (which
+# reflect just this license file) are different than the quantities in the
+# "Encryption" section (which reflect combined or "rolled" quantities of
+# like features).
+# Server(s) - 0ee56868d11f
+#
+# P/N     Description                              Item Qty
+# ------- ---------------------------------------- --------------
+#         Feature Name              Version     Start Date   Exp. Date  
+
+######################### End of License Content ##########################
